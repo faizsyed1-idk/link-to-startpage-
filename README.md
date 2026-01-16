@@ -4,3 +4,4 @@ https://simone.computer/#/
 https://duckduckgo.com/ 
 https://search.brave.com/
 https://emupedia.net/beta/emuos/ 
+https://github.com/syxanash/awesome-web-desktops?tab=readme-ov-file 
