@@ -3,3 +3,4 @@
 https://simone.computer/#/ 
 https://duckduckgo.com/ 
 https://search.brave.com/
+https://emupedia.net/beta/emuos/ 
