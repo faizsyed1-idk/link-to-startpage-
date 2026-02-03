@@ -8,3 +8,5 @@ https://github.com/syxanash/awesome-web-desktops?tab=readme-ov-file
 https://linux-next.vercel.app/ 
 https://freeproxy.win/
 https://free-proxy-list.net/en/ 
+https://os.nated.in/
+
